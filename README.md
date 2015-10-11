@@ -40,5 +40,9 @@ Using command line mongo client.
 > db.createCollection("pippo")
 ```
 
+### Verify insertions
+```
+> db.pippo.find()
+```
 
 
