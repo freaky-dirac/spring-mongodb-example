@@ -17,9 +17,14 @@ $ cd <project_path>
 $ java -jar target/lib/spring-mongodb-0.1.0.jar
 ```
 
-### Run MongoDB
+### Run MongoDB Server
 ```
 $ mongod
+```
+
+### Run MongoDB Client
+```
+$ mongo
 ```
 
 ### Database setup
